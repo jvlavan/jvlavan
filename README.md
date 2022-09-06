@@ -51,7 +51,7 @@
 ![Metrics](https://metrics.lecoq.io/jvlavan?template=classic&isocalendar=1&languages=1&stargazers=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKolkata)
   
   
-  
+ [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=jvlavan&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
   
