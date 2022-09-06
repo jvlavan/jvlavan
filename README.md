@@ -38,6 +38,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jvlavan01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://lavan.net.in/projects.html" /></a></p><br><br>
 <br>
+  <hr>
+  
+  <h3 align="left">Status:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvlavan&show_icons=true&locale=en&layout=compact" alt="jvlavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvlavan&show_icons=true&locale=en" alt="jvlavan" /></p>
@@ -45,3 +49,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvlavan&" alt="jvlavan" /></p>
 
 ![Metrics](https://metrics.lecoq.io/jvlavan?template=classic&isocalendar=1&languages=1&stargazers=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKolkata)
+  
+  
+  
+  
+  
+  
