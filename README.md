@@ -23,6 +23,8 @@
 
 - 💬 Ask me about **Web hosting,PAAS**
 
+- 📙 My personal [website](https://lavan.net.in/)
+
 - 📫 How to reach me **jvlavan01@gmail.com**
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
