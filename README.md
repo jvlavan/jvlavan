@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Git Service](https://git.lavan.dev)
 
-- 👯 I’m looking to collaborate on [VMHSS CLOUD](https://vmhsscloud.github.io/)
+- 👯 I’m looking to collaborate on [code server](https://code.lavan.net.in/)
 
 - 👨‍💻 All of my projects are available at [https://lavan.net.in/projects.html](https://lavan.net.in/projects.html)
 
