@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LAVAN J V</h1>
-<img align="right"  src="https://vmhsscloud.github.io/assets/images/1614685845097.jpg-240x314.jpg" alt="jvlavan" />
+<img align="right"  src="https://lavan.net.in/assets/images/lavanjv.png" alt="jvlavan" />
 <h3 align="center">A passionate developer from India</h3>
 
 
