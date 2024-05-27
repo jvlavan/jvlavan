@@ -4,7 +4,7 @@
 
 
 </p>
-<div size='20px'> Hi! My name is LAVAN J V knows Dull Stack Developement , Azure certified profession  and I publish some apps in store.
+<div size='20px'> Hi! My name is LAVAN J V knows Full Stack Developement , Azure certified profession  and I publish some apps in store.
 </div>
 <h3 align="center">A passionate developer from India</h3>
 
