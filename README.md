@@ -2,10 +2,9 @@
 
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jvlavan.jvlavan)
 
 </p>
-<div size='20px'> Hi! My name is LAVAN J V. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is LAVAN J V. Full Stack Developer Fluent in Next.js & Supabase | Driving Innovation with React.js 🚀| Passionate About Creating Seamless User Experiences | Tech enthusiast 💻| Microsoft Certified Profession (AZ-900)
 </div>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -13,17 +12,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvlavan" alt="jvlavan" /></a> </p>
 <hr>
 <h3> About:</h3>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
+<a target="_blank"href="https://www.credly.com/badges/f076b602-5fd3-4104-94d5-1e9bb3f8141c/public_url"><img align="right" src="https://res.cloudinary.com/doekhrpom/image/upload/v1716787324/azure-skill/tyihfm97cj6egvdkgwmi.png" alt="AZ 900"  /></a>
 
 - 🔭 I’m currently working on [Digi Companion AI](https://digi-companion.lavan.dev/)
 
 - 💬 Ask me about **FULL STACK DEVELOPMENT**
 
 - 📙 My personal [website](https://lavan.dev/)
-
+- 📱 My Google Play store developer [profile](https://play.google.com/store/apps/dev?id=4949408004438261776)
 - 📫 How to reach me **jvlavan01@gmail.com**
+- 🐧Knows Linux and cloud ☁️(Azure)
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
 <p align="left">
