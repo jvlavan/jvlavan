@@ -4,7 +4,7 @@
 
 
 </p>
-<div size='20px'> Hi! My name is LAVAN J V. Full Stack Developer Fluent in Next.js & Supabase | Driving Innovation with React.js 🚀| Passionate About Creating Seamless User Experiences | Tech enthusiast 💻| Microsoft Certified Profession (AZ-900)
+<div size='20px'> Hi! My name is LAVAN J V. Full Stack Developer knows cloud environment and I publish some apps in store.
 </div>
 <h3 align="center">A passionate developer from India</h3>
 
