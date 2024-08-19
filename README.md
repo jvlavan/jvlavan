@@ -14,7 +14,7 @@
 <h3> About:</h3>
 <a target="_blank"href="https://www.credly.com/badges/f076b602-5fd3-4104-94d5-1e9bb3f8141c/public_url"><img align="right" src="https://res.cloudinary.com/doekhrpom/image/upload/v1716787324/azure-skill/tyihfm97cj6egvdkgwmi.png" alt="AZ 900"  /></a>
 
-- 🔭 I’m currently working on [Digi Companion AI](https://digi-companion.lavan.dev/)
+- 🔭 I’m currently working on [Fleet Studio Technologies Pvt Ltd](https://www.fleetstudio.com/)
 
 - 💬 Ask me about **FULL STACK DEVELOPMENT**
 
