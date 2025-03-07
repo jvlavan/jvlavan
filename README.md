@@ -11,17 +11,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvlavan" alt="jvlavan" /></a> </p>
 <hr>
+
 <h3> About:</h3>
-<a target="_blank"href="https://www.credly.com/badges/f076b602-5fd3-4104-94d5-1e9bb3f8141c/public_url"><img align="right" src="https://res.cloudinary.com/doekhrpom/image/upload/v1716787324/azure-skill/tyihfm97cj6egvdkgwmi.png" alt="AZ 900"  /></a>
 
-- 🔭 I’m currently working on [Fleet Studio Technologies Pvt Ltd](https://www.fleetstudio.com/)
+   <a target="_blank" href="https://www.credly.com/badges/f076b602-5fd3-4104-94d5-1e9bb3f8141c/public_url"><img  src="https://res.cloudinary.com/doekhrpom/image/upload/v1716787324/azure-skill/tyihfm97cj6egvdkgwmi.png" alt="AZ 900"  align="right" width="175" /></a>
+    <a target="_blank" href="https://www.holopin.io/hacktoberfest2024/userbadge/cm23m01cv41260clbq89c8ew1">
+        <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Hacktoberfest Contributor" align="right" width="175"/>
+    </a>
 
-- 💬 Ask me about **FULL STACK DEVELOPMENT**
 
+- 🔭 Full Stack Developer at [Fleet Studio Technologies Pvt Ltd](https://www.fleetstudio.com/)
 - 📙 My personal [website](https://lavan.dev/)
 - 📱 My Google Play store developer [profile](https://play.google.com/store/apps/dev?id=4949408004438261776)
 - 📫 How to reach me **jvlavan01@gmail.com**
-- 🐧Knows Linux and cloud ☁️(Azure)
+- 🐧Knows React, Linux, Spring Boot and cloud ☁️(Azure)
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
 <p align="left">
