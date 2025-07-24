@@ -20,7 +20,7 @@
     </a>
 
 
-- 🔭 Full Stack Developer at [Fleet Studio Technologies Pvt Ltd](https://www.fleetstudio.com/)
+- 🔭 Full Stack Developer 
   
 - 📙 My personal [website](https://lavan.dev/)
   
