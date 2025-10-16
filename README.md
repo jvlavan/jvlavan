@@ -2,9 +2,9 @@
 
 <p align='center'>
 
-
 </p>
-<div size='20px'> Hi! My name is LAVAN J V knows Full Stack Developement , Azure certified profession  and I publish some apps in store.
+<h3> Intro:</h3>
+<div size='20px'> Hi! My name is LAVAN J V, Azure certified profession and I publish apps in Microsoft store and Google Play store.
 </div>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -12,13 +12,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvlavan" alt="jvlavan" /></a> </p>
 <hr>
 
-
-
 <h3> About:</h3>
 
    <a target="_blank" href="https://www.credly.com/badges/f076b602-5fd3-4104-94d5-1e9bb3f8141c/public_url"><img  src="https://res.cloudinary.com/doekhrpom/image/upload/v1716787324/azure-skill/tyihfm97cj6egvdkgwmi.png" alt="AZ 900"  align="right" width="180" /></a>
-
-
 
 - 🔭 Full Stack Developer 
   
