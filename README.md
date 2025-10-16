@@ -12,12 +12,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvlavan" alt="jvlavan" /></a> </p>
 <hr>
 
+
+
 <h3> About:</h3>
 
    <a target="_blank" href="https://www.credly.com/badges/f076b602-5fd3-4104-94d5-1e9bb3f8141c/public_url"><img  src="https://res.cloudinary.com/doekhrpom/image/upload/v1716787324/azure-skill/tyihfm97cj6egvdkgwmi.png" alt="AZ 900"  align="right" width="180" /></a>
-    <a target="_blank" href="https://www.holopin.io/hacktoberfest2024/userbadge/cm23m01cv41260clbq89c8ew1">
-        <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Hacktoberfest Contributor" align="right" width="180"/>
-    </a>
+
 
 
 - 🔭 Full Stack Developer 
@@ -30,6 +30,9 @@
   
 - 🐧Knows React, Linux, Spring Boot and cloud ☁️(Azure)
 
+<h3> Hacktoberfest:</h3>
+
+[![An image of @jvlavan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jvlavan)](https://holopin.io/@jvlavan)
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
 <p align="left">
