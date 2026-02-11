@@ -47,7 +47,8 @@
 <h3 align="center">📊 GitHub Metrics</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jvlavan/jvlavan/main/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/jvlavan/jvlavan/main/github-metrics.svg"
+       style="width:100%; max-width:100%;" />
 </p>
 
 <h2> Skills
