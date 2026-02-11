@@ -1,0 +1,38 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Get Previous Year
+        id: date
+        run: echo "year=$(($(date +%Y)-1))" >> $GITHUB_OUTPUT
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: jvlavan
+          template: terminal
+          base: ""
+
+          config_timezone: Asia/Kolkata
+
+          filename: github-metrics.svg
+          output_action: commit
+          output_branch: output
+
+          plugin_skyline: yes
+          plugin_skyline_year: ${{ steps.date.outputs.year }}
+          plugin_languages: yes
