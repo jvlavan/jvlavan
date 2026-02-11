@@ -42,12 +42,6 @@
   <hr>
   
 
-<h3 align="center">🔥 Contribution </h3>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvlavan" />
-</p>
 
 
 <h3 align="center">📊 GitHub Metrics</h3>
