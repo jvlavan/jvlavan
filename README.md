@@ -6,13 +6,15 @@
 <h3> Intro:</h3>
 <div size='20px'> Hi! My name is LAVAN J V, Azure certified profession and I publish apps in Microsoft store and Google Play store.
 </div>
-<h3 align="center">A passionate developer from India</h3>
+<hr>
+<h3 align="left">🐍 Contribution Snake</h3>
 
-## 🐍 My Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/jvlavan/jvlavan/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jvlavan/jvlavan/output/github-snake-dark.svg" />
+</p>
 
 <hr>
+
 
 <h3> About:</h3>
 
@@ -28,16 +30,35 @@
   
 - 🐧Knows React, Linux, Spring Boot and cloud ☁️(Azure)
 
+<hr>
+
 <h3> Hacktoberfest:</h3>
 
 [![An image of @jvlavan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jvlavan)](https://holopin.io/@jvlavan)
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
-<p align="left">
-<a href="https://linkedin.com/in/lavanjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanjv" height="30" width="40" /></a>
+
+
+
+  <hr>
+  
+
+<h3 align="center">🔥 Contribution </h3>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvlavan" />
 </p>
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+
+<h3 align="center">📊 GitHub Metrics</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jvlavan/jvlavan/main/github-metrics.svg" />
+</p>
+
+<h2> Skills
+   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> 
+</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -52,14 +73,8 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </p>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
-
-  <hr>
-  
-
-  <h3 align="left">Status:</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvlavan&" alt="jvlavan" /></p>
-
-
-  
+<p align="left">
+<a href="https://linkedin.com/in/lavanjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanjv" height="30" width="40" /></a>
+</p>
