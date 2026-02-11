@@ -46,9 +46,9 @@
 
 <h3 align="left">📊 GitHub Metrics</h3>
 
-<p align="center">
+
 <img src="https://raw.githubusercontent.com/jvlavan/jvlavan/main/github-metrics.svg" />
-</p>
+
 
 <h2> Skills
    <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> 
